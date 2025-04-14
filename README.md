@@ -21,7 +21,7 @@ O layout se adapta automaticamente a diferentes larguras de tela, sem o uso de f
 
 ## 📸 Preview
 
-*(Aqui você pode colocar um print da tela, ou adicionar depois)*
+https://template-responsivo.vercel.app
 
 ## 🚀 Como visualizar
 
